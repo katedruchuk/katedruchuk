@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katedruchuk
-- 👀 I’m interested in coding (obviously :)
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on different projects
+- 👀 I’m interested in coding (obviously :).
+- 🌱 I’m currently learning Javascript and React.
+- 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me? Via email katedruchuk@gmail.com!
 
 <!---
